@@ -11,6 +11,9 @@ https://www.kaggle.com/nsharan/h-1b-visa/notebooks
 US State name to abbreviation copied from 
 https://gist.github.com/rogerallen/1583593
 
+GeoJSON file for ZIPCODE boundaries are provided by
+https://github.com/OpenDataDE/State-zip-code-GeoJSON
+
 Some other Stackoverflow references are included in code.
 
 # Inspiration
